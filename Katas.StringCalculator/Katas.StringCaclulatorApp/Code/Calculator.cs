@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Katas.StringCaclulatorApp.Code
 {
+    //http://osherove.com/tdd-kata-1/
     public class Calculator
     {
         public int Add(string input)
