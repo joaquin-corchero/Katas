@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Katas.StringCalculator/Katas.StringCaclulatorApp/obj/Debug
+/Katas.StringCalculator/Katas.StringCaclulatorApp/bin/Debug
+/Katas.StringCalculator/Katas.StringCalculator.Tests/bin/Debug
+/Katas.StringCalculator/packages
+/Katas.StringCalculator/Katas.StringCalculator.Tests/obj/Debug
+*.ncrunchproject
+*.ncrunchsolution
